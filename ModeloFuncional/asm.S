@@ -18,7 +18,7 @@ funcao:
 
 	//pushl %ebx				#guardar registos
 	//pushl %ecx
-	//pushl %edx
+	pushl %edx
 	pushl %esi
 	pushl %edi
 
