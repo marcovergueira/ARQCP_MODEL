@@ -17,8 +17,8 @@ funcao:
 	//movl %esp, %ebp
 
 	//pushl %ebx				#guardar registos
-	pushl %ecx
-	pushl %edx
+	//pushl %ecx
+	//pushl %edx
 	pushl %esi
 	pushl %edi
 
