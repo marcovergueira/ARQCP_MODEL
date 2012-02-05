@@ -14,7 +14,7 @@ funcao:
 
 #epilogo
 	//pushl %ebp
-	movl %esp, %ebp
+	//movl %esp, %ebp
 
 	//pushl %ebx				#guardar registos
 	pushl %ecx
